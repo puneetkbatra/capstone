@@ -1,0 +1,48 @@
+body,.scrollspy{
+  margin: 0;
+  padding: 0;
+  outline:0;
+}
+
+.scrollspy .navbar-brand{
+   color: #2c3e50;
+   font-size: 30px;
+}
+
+.scrollspy .nav-link{
+   color:#2c3e50;
+   font-weight: bold;
+}
+
+.A img{
+  z-index: -1;
+  opacity: 0.6;
+  height: 95vh;
+}
+
+.A .A-content{
+   width: 50%;
+   margin: auto;
+   color: #2c3e50;
+}
+
+.A-content a{
+   background-color: #6a89cc;
+   border: none;
+   opacity: 0.8;
+   transform: translate(200%,75%);
+}
+
+.A .A-content span{
+  max-width: 25rem;
+  font-size: 1rem;
+  font-family: 'Varela Round';
+}
+.pp img{
+   width: 33%;
+   height: 400px;
+}
+
+.pp img{
+  background-size:
+}
